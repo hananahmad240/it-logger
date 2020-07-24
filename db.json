@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Change Hard Drive on workstation 005",
+      "attention": false,
+      "date": "03-02-2019",
+      "tech": "hanan ahmad"
+    },
+    {
+      "id": 2,
+      "message": "Workstation 007 not posing",
+      "attention": true,
+      "date": "03-02-2019",
+      "tech": "nayyab mehmood"
+    },
+    {
+      "id": 3,
+      "message": "Change memory on workstation 050",
+      "attention": false,
+      "date": "03-02-2019",
+      "tech": "Rutab Naddem"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "hanan",
+      "lastName": "ahmad"
+    },
+    {
+      "id": 2,
+      "firstName": "nayyab",
+      "lastName": "mehmood"
+    },
+    {
+      "id": 3,
+      "firstName": "Rutab",
+      "lastName": "Nadeem"
+    },
+    {
+      "firstName": "kashaf",
+      "lastName": "Tariq",
+      "id": 4
+    }
+  ]
+}
